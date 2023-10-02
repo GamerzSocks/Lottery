@@ -1,3 +1,6 @@
+# thank you for downloading and looking at the code!
+#i worked very hard on this so enjoy!
+
 import random
 import datetime
 import webbrowser
